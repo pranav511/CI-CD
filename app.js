@@ -1,1 +1,1 @@
-console.log("pranav kewate in git js"):v1
+console.log("pranav kewate in git js v1")
